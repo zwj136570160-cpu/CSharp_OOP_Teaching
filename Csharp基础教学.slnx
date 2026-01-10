@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="lesson1_枚举/lesson1_枚举.csproj" />
   <Project Path="lesson1_练习题/lesson1_练习题.csproj" Id="ff6867ad-5b4b-4447-9378-228d66b0cb9a" />
+  <Project Path="lesson2_一维数组/lesson2_一维数组.csproj" Id="85a22a67-b030-48d1-b147-3503adcf4884" />
+  <Project Path="lesson2_练习题/lesson2_练习题.csproj" Id="fca7d2da-bfdc-4e75-9fc0-c882ddcd2a50" />
+  <Project Path="lesson3_二维数组/lesson3_二维数组.csproj" Id="991c8611-b7bb-4dca-92ab-3a3a0e9877e4" />
+  <Project Path="lesson3_练习题/lesson3_练习题.csproj" Id="5544efbd-fc03-42a0-89d1-b61d18838f71" />
 </Solution>
