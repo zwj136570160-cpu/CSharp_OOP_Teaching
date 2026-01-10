@@ -25,6 +25,7 @@
             #region 知识点五 枚举的作用
 
             #endregion
+            Console.WriteLine("Hello, World!");
         }
     }
 }
