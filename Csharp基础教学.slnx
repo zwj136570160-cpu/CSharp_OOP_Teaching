@@ -5,4 +5,5 @@
   <Project Path="lesson2_练习题/lesson2_练习题.csproj" Id="fca7d2da-bfdc-4e75-9fc0-c882ddcd2a50" />
   <Project Path="lesson3_二维数组/lesson3_二维数组.csproj" Id="991c8611-b7bb-4dca-92ab-3a3a0e9877e4" />
   <Project Path="lesson3_练习题/lesson3_练习题.csproj" Id="5544efbd-fc03-42a0-89d1-b61d18838f71" />
+  <Project Path="lesson4_交错数组/lesson4_交错数组.csproj" Id="eb37c2d2-372c-44ac-a3a3-7388e6ee84c6" />
 </Solution>
