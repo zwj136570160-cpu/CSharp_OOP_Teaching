@@ -132,7 +132,7 @@
                     }
                     Console.Write(appay[i, j] + " ");
                 }
-                Console.WriteLine();
+                Console.WriteLine()
             }
             #endregion
         }
